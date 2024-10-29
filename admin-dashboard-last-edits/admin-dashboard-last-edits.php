@@ -3,13 +3,12 @@
  * Plugin Name: Admin Dashboard Last Edits
  * Plugin URI: https://wpdoc.de/plugins/
  * Description: Easy and lightweight solution for showing the last edited posts and pages on the admin dashboard.
- * Version: 1.1.3
+ * Version: 1.1.4
  * Author: Johannes Ries
  * Author URI: https://wpdoc.de
  * Text Domain: admin-dashboard-last-edits
  * License: GPL-2.0 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
- * Domain Path: /languages
  */
 
 /**

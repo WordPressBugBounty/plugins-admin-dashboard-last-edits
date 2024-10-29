@@ -1,8 +1,8 @@
 === Admin Dashboard Last Edits ===
 Contributors: wpdoc.de
-Tags: admin, administration, dashboard, edits, posts, post, pages, page, widget
+Tags: dashboard, edits, posts, pages, widget
 Requires at least: 3.8
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: trunk
 License: GPL-2.0 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
@@ -29,6 +29,9 @@ Please visit the [plugins page](https://translate.wordpress.org/projects/wp-plug
 2. Widget in german language
 
 == Changelog ==
+= 1.1.4 =
+* Minor cleanup
+
 = 1.1.3 =
 * Minor readme corrections
 
